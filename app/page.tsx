@@ -1,5 +1,5 @@
 
-export default function Home() {
+export default function page() {
   return (
     <div>
         <h1>Ankit jangid<h1/>  
